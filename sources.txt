@@ -1,0 +1,38 @@
+
+
+tihmstar--
+everyone who doesn't like iOS 11 can now downgrade to any iOS by compilng futurerestore with libipatcher https://t.co/kz7Dpl6tKL
+
+
+Database 
+https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Databases/412845-2.html
+
+https://www.lynda.com/SQL-Server-tutorials/Database-Fundamentals-Core-Concepts/385693-2.html
+
+https://www.lynda.com/Access-tutorials/Relational-Database-Fundamentals/145932-2.html
+
+https://www.lynda.com/NoSQL-tutorials/NoSQL-Data-Science-Depth/532187-2.html
+
+https://www.lynda.com/SQL-Server-tutorials/Designing-Database-Solutions-SQL-Server-2016/548706-2.html
+
+https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Data-Structures/149042-2.html
+
+https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html
+
+https://www.lynda.com/Moodle-tutorials/Learning-MongoDB/573253-2.html
+
+
+oracle videos
+
+https://www.lynda.com/Oracle-tutorials/Learning-Oracle-Database-12c/513600-2.html
+
+https://www.lynda.com/Oracle-tutorials/Oracle-12c-New-Features/563093-2.html
+
+https://www.lynda.com/IT-tutorials/Oracle-12c-R2-New-Features/585263-2.html
+
+https://www.lynda.com/Database-tutorials/Oracle-12c-Database-Administration-Fundamentals/515917-2.html
+
+
+
+Programming fundamental
+https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html
